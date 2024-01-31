@@ -4,7 +4,7 @@ Clone this repo to follow along with me. Or you can create your own project too.
 
 docker build .
 
-docker compose up 
+docker compose up --build
 
 docker compose down
 
